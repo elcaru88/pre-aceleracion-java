@@ -15,6 +15,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class ContinenteDTO {
+	
+	//CAMBIO PRUEBA
 
 	private String imagen;
 
